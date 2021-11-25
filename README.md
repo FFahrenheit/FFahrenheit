@@ -20,6 +20,5 @@
   <img src='https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg' height='50px'>
   <img src='https://www.vectorlogo.zone/logos/php/php-icon.svg' height='50px'>
   <img src='https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg' height='50px'>
-  <img src='https://lh3.googleusercontent.com/proxy/JgqYK7GFQccbVTnhfRlAzDPmgbHUDUzCjZlMV9c3ZWgW2_ZOU2RnddReCwF9XB7-5udZCBJ9ZgA3G6x_EMruW-tWnuXJbsFEv0y1' height='50px'>
   <img src='https://img.icons8.com/color/480/microsoft-sql-server.png' height='50px'>
 </p>
